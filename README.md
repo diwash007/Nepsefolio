@@ -26,5 +26,4 @@ A simple mobile application for NEPSE portfolio tracking
     >
         Download Nepsefolio v1.0.0-beta
     </button>
-    
-    </a>
+</a>
