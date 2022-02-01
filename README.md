@@ -3,8 +3,10 @@ A simple mobile application for NEPSE portfolio tracking
 
 ## App screenshots
 
-<img src="static/app/splash.png" width="189" height="400"/>
-<img src="static/app/landing.png" width="189" height="400"/>
-<img src="static/app/add.png" width="189" height="400"/>
-<img src="static/app/detail.png" width="189" height="400"/>
-<img src="static/app/exit.png" width="189" height="400"/>
+<p float="left">
+<img src="static/app/splash.png" width="132" height="280"/>
+<img src="static/app/landing.png" width="132" height="280"/>
+<img src="static/app/add.png" width="132" height="280"/>
+<img src="static/app/detail.png" width="132" height="280"/>
+<img src="static/app/exit.png" width="132" height="280"/>
+</p>
