@@ -12,6 +12,6 @@ A simple mobile application for NEPSE portfolio tracking
 </p>
 
 ## Download
-<a href="https://github.com/diwash007/Nepsefolio/releases/download/v1.0.0-beta/app-release.apk">
-        Download Nepsefolio v1.0.0-beta
+<a href="https://github.com/diwash007/Nepsefolio/releases/download/v1.0.1-beta/Nepsefolio.v1.0.1-beta.apk">
+        Download Nepsefolio v1.0.1-beta
 </a>
